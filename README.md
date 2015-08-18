@@ -12,7 +12,7 @@ mvn clean install
 
 mvn jetty:run
 
-**Running with Maven Jetty Plugin in a specific mode**
+**Running with Maven Jetty Plugin in a specific mode
 
 mvn jetty:run -Dapp.mode={mode} (e.g. mvn jetty:run -Dapp.mode=dev)
 
